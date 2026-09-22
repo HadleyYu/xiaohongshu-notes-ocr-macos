@@ -1,0 +1,2 @@
+# Local Apple Silicon speech recognition (installed in this tool's .venv).
+mlx-whisper==0.4.3

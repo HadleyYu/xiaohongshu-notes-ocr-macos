@@ -1,0 +1,16 @@
+greenlet==3.5.6
+iniconfig==2.3.0
+packaging==26.3
+pillow==12.3.0
+playwright==1.63.0
+pluggy==1.6.0
+pyee==13.0.1
+pygments==2.21.0
+pyobjc-core==12.2.2
+pyobjc-framework-cocoa==12.2.2
+pyobjc-framework-coreml==12.2.2
+pyobjc-framework-quartz==12.2.2
+pyobjc-framework-vision==12.2.2
+pytest==9.1.1
+pyyaml==6.0.3
+typing-extensions==4.16.0

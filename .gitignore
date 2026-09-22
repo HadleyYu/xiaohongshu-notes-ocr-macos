@@ -1,0 +1,17 @@
+.venv*/
+.browsers/
+.login-browser/
+.models/
+.video-work/
+.backup*/
+__pycache__/
+.pytest_cache/
+*.pyc
+.DS_Store
+*.log
+.env
+.env.*
+!.env.example
+*_视频全文.md
+cookies*.json
+storage_state*.json
